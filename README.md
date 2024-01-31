@@ -4,7 +4,7 @@
 
 pltc are a set of useful classification systems for trade data, which aim to enable policy analysis and interoperability with other economic data. 
 
-There are three core parts to pltc. (1) The Narrative Classification System, or NCS, is a simplified classification system for translating HS6 level products into more manageable groups of Sectors, Sub-sectors, Product types and Products. (2) The Narrative Valus Chain, or NVC, classification provides a mapping of products into inputs and end uses, with the aim of enabling the analysis of value chains. (3) Finally, a range of correspondence tables are available that use the NCS as an intermediary to, for example, connect trade data to the industry structure of domestic employment and production data.
+There are three core parts to pltc. (1) The Narrative Classification System, or NCS, is a simplified classification system for translating HS6 level products into more manageable groups of Sectors, Sub-sectors, Product types and Products. (2) The Narrative Value Chain, or NVC, classification provides a mapping of products into inputs and end uses, with the aim of enabling the analysis of value chains. (3) Finally, a range of correspondence tables are available that use the NCS as an intermediary to, for example, connect trade data to the industry structure of domestic employment and production data.
 
 There have been four iterations of the pltc:
 
