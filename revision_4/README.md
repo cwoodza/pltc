@@ -1,0 +1,2 @@
+# WARNING: Version in development
+This version of the trade classifications is in active development and may change frequently. If these changes will impact your work, it is recommended to use the previous version of the pltc.
