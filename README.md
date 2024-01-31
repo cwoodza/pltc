@@ -67,6 +67,8 @@ To illustrate this, take the example of stainless steel. The NVC system identifi
 
 At the same time, primary stainless steel is an input into a range of more complex stainless-steel products, including structural fixtures and shaped pieces. These are themselves an input into a very wide range of industrial products, ultimately meaning that stainless steel directly connects into 127 products within the NVC classification. Each of which, in turn, connect into many more complex products.
 
+![An example of NVC linkages in stainless steel](/example.png)
+
 However, excluded from this picture are the wooden pallets that hold finished products, the trucks that transport those products, and some of the chemicals used to finish products. These non-core products are a part of the stainless steel value chain, but are beyond the level of detail available in the NVC.
 
 A further limitation is that the categorisation system used to classify products in the NVC inherently requires some simplification. For example, while each individual polymer is included in the classification, most of these typically connect to a more generic category of "Plastic panels and sheets". This means that an industry that specifically uses one type of plastic is nevertheless linked to this broader bucket of different types of polymers. This analysis is necessary to avoid the exponential complexity of connecting individual HS codes, but does not involve a major loss of analytical potential, given that the grouping of similar products aims to demonstrate capability in a product space, rather than ability in a precise product line. 
